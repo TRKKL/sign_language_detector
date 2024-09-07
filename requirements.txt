@@ -1,8 +1,11 @@
 pip install opencv-python
 Version: 4.10.0.84
+pip install opencv-python==4.10.0.84
 
 pip install mediapipe
 Version: 0.10.14
+pip install mediapipe==0.10.14
 
 pip install numpy
 Version: 1.26.4
+pip install numpy==1.26.4
